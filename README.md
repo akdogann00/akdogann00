@@ -13,9 +13,9 @@
 
 ## GitHub Repositories
 
-📌 cpp-practice
+📌 [cpp-practice](https://github.com/akdogann00/cpp-practice)
 
-📌 windows-forms-practice
+📌 [windows-forms-practice](https://github.com/akdogann00/windows-forms-practice)
 
 ## Goals
 
