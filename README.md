@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Abdullah 👋
 
-<!--
-**akdogann00/akdogann00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Programming Student
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- C#
+- Windows Forms
+- SQL
+- HTML & CSS
+- Git & GitHub
+
+## GitHub Repositories
+
+📌 cpp-practice
+
+📌 windows-forms-practice
+
+## Goals
+
+- Improve my C++ skills
+- Learn C# and Windows Forms
+- Learn SQL
+- Build a strong GitHub portfolio
+- Prepare for my intership
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/abdullah-ka%C4%9Fan-do%C4%9Fan-ab642143a/?isSelfProfile=true
+
+---
+
+🚀 Learning something new every day
+
+
+
