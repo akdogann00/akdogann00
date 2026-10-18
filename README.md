@@ -27,7 +27,7 @@
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/abdullah-ka%C4%9Fan-do%C4%9Fan-ab642143a/?isSelfProfile=true
+🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-ka%C4%9Fan-do%C4%9Fan-ab642143a/?isSelfProfile=true)
 
 ---
 
