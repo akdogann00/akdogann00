@@ -16,7 +16,9 @@
 - Backend Development Architecture & Logic
 - Object-Oriented Programming (OOP) in C# & C++
 - Building Windows Forms Desktop Applications
-
+- SQL & Database Management
+- Writing SQL Queries and Managing Database Structures
+  
 ---
 
 ### 📌 Featured Repositories
